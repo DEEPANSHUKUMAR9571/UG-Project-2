@@ -1,1 +1,1 @@
-# UG-Project-2
+# Solving-Partial-Differential-Equations-using-PINN
